@@ -1,6 +1,8 @@
 # Hey there 👋🏻 I'm Alder Whiteford! 
 
-I am a student, software engineer, photographer, and running enthusiast born and raised in the beautiful state of Oregon. I am currently studying Computer Science at Northeastern University in Boston, MA
+I am a student, software engineer, photographer, and running enthusiast born and raised in the beautiful state of Oregon. I am currently studying Computer Science at Northeastern University in Boston, MA. 
+
+Find me on instagram: [@aldersgallery](https://www.instagram.com/aldersgallery/)
 
 ### 💻 Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,java,go,scala,cpp,rust,js,ts,html,css,powershell)](https://skillicons.dev)
