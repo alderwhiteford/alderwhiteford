@@ -14,4 +14,4 @@ I am a student, software engineer, photographer, and running enthusiast born and
 ### Fun Facts:
 - 🎧 0.10% Noah Kahan Listener
 - 🗺️ 20 Countries Visited
-- 🎸 46 Concerts Attended (Most Recent: Noah Kahan, 7/18)
+- 🎸 47 Concerts Attended (Most Recent: The Struts, 8/4)
