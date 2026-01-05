@@ -12,6 +12,6 @@ I am a student, software engineer, photographer, and running enthusiast born and
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,mongodb,docker,postgres,mysql,express,nextjs,react,redux,tailwind,figma)](https://skillicons.dev)
 
 ### Fun Facts:
-- 🎧 0.10% Noah Kahan Listener
-- 🗺️ 21 Countries Visited
+- 🎧 0.5% Noah Kahan Listener
+- 🗺️ 23 Countries Visited
 - 🎸 52 Concerts Attended (Most Recent: Zach Bryan, 11/27)
