@@ -1,5 +1,5 @@
-📸 Find me on instagram: [@aldersgallery](https://www.instagram.com/aldersgallery/)
-🌐 Check out my porfolio: [whiteford.work](https://whiteford.work)
+- 📸 Find me on instagram: [@aldersgallery](https://www.instagram.com/aldersgallery/)
+- 🌐 Check out my porfolio: [whiteford.work](https://whiteford.work)
 
 ### Fun Facts:
 - 🎧 0.5% Noah Kahan Listener
